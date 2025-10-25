@@ -74,10 +74,10 @@ Me interesa aprender a combinar **música** con **programación**, y explorar á
 
 <p>
   <a href="https://www.youtube.com/@alejandromatiasolivos5042">
-    <img src="https://img.shields.io/badge/YouTube-TU_CANAL-FF0000?logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-Alejandro_Matias_Olivos-FF0000?logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/alejandr0lirod">
-    <img src="https://img.shields.io/badge/Instagram-@TU_INSTAGRAM-E4405F?logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@alejandr0lird-E4405F?logo=instagram" />
   </a>
   <a href="mailto:olivosralejandromatias@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contáctame-informational?logo=gmail" />
