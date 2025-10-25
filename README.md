@@ -27,7 +27,7 @@ Me interesa aprender a combinar **música** con **programación**, y explorar á
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="360" alt="cat-coding"/>
+<img src="https://github.com/SolidDogor/SolidDogor/blob/main/ezgif.com-animated-gif-maker.gif" width="360" alt="cat-coding"/>
 <br/>
 <sub>GIF temporal — pronto: mis gatos codeando 🐾</sub>
 
