@@ -1,38 +1,126 @@
+<!-- ========================================================= -->
+<!-- HEADER -->
+<h1 align="center">¡Hola, soy <a href="https://github.com/SolidDogor">Alejandro Olivos</a>! 👋</h1>
+
 <p align="center">
-  <h1 align="center">¡Hola soy <a href="https://github.com/MrBlueBird2">Alejandro Olivos</a> 👋</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=750&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+en+USIL;Apasionado+por+C%2B%2B+y+desarrollo+de+videojuegos;Curioso+por+visi%C3%B3n+computacional+y+ciberseguridad;Amante+de+la+m%C3%BAsica+y+los+gatos+%3A3" alt="rotating-facts" />
 </p>
-<p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+
+<hr/>
+
+<!-- ========================================================= -->
+<!-- SOBRE MÍ -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧩 Sobre mí
+Hola 👋  
+Soy estudiante de **Ingeniería de Software en la USIL**, con pasión por **C++** y el desarrollo de videojuegos.  
+Me interesa aprender a combinar **música** con **programación**, y explorar áreas como **visión computacional** y **ciberseguridad** (aunque recién empiezo jeje).
+
+- 💻 Lenguajes favoritos: **C++**, **Java**
+- 🌱 Aprendiendo: **React**, desarrollo web full stack
+- 🎵 Intentando integrar música y código
+- 🐈 Tengo dos gatos que suelen “ayudarme” a programar 😸
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="360" alt="cat-coding"/>
+<br/>
+<sub>GIF temporal — pronto: mis gatos codeando 🐾</sub>
+
+</td>
+</tr>
+</table>
+
+<hr/>
+
+<!-- ========================================================= -->
+<!-- STATS -->
+### 📊 Mis stats de GitHub
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolidDogor&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="top-langs"/>
 </p>
-<p>Estudio Ingeniería de Software</p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Sobre mi
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SolidDogor&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="stats"/>
+</p>
+
+<p>
+  <img height="165" src="https://streak-stats.demolab.com?user=SolidDogor&hide_border=true&theme=tokyonight" alt="streak"/>
+</p>
+
+<hr/>
+
+<!-- ========================================================= -->
+<!-- REPOS DESTACADOS -->
+### 🚀 Repositorios destacados
+
 <ul>
-  <li>👋 Soy @SolidDogor</li>
-  <li>❤️ Me gusta programar en C++ y otros lenguajes</li>
-  <li>🌱 Por el momento estudio Ingeniería de Software en la USIL.</li>
-  <li>💼 Me interesa el desarrollo Web</li>
-  <li>🧐 Si gustas ver mis proyectos entra a https://mrbluebird2.github.io</li>
+  <li>🎮 <a href="https://github.com/SolidDogor/REPO_1">REPO_1</a> — Descripción corta del proyecto</li>
+  <li>💡 <a href="https://github.com/SolidDogor/REPO_2">REPO_2</a> — Descripción corta del proyecto</li>
+  <li>🧠 <a href="https://github.com/SolidDogor/REPO_3">REPO_3</a> — Descripción corta del proyecto</li>
+  <li>🎵 <a href="https://github.com/SolidDogor/REPO_4">REPO_4</a> — Descripción corta del proyecto</li>
 </ul>
 
-</p>
-<h2 align="center">My Github Stats</h2>
-<p align="center">
-	<img
-		align="center"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolidDogor&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"
-	/>
-	<img
-		align="center"
-		src="https://github-readme-stats.vercel.app/api?username=SolidDogor&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"
-	/>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SolidDogor&theme=dracula">
-	<img
-		align="center"
-		src="https://github-profile-trophy.vercel.app/?username=SolidDogor&theme=onedark"
-	/>
+<hr/>
+
+<!-- ========================================================= -->
+<!-- REDES -->
+### 🔗 Redes
+
+<p>
+  <a href="https://www.youtube.com/@TU_CANAL">
+    <img src="https://img.shields.io/badge/YouTube-TU_CANAL-FF0000?logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/TU_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-@TU_INSTAGRAM-E4405F?logo=instagram" />
+  </a>
+  <a href="mailto:TUCORREO@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-Contáctame-informational?logo=gmail" />
+  </a>
+  <a href="https://TU_PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-En_construcción-lightgrey?logo=vercel" />
+  </a>
 </p>
 
-#### Trofeos
+<hr/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SolidDogor&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="MrBlueBird2"></a></p>
+<!-- ========================================================= -->
+<!-- LENGUAJES E INTERESES -->
+### 🧠 Lenguajes e intereses
+
+<p>
+  <!-- Lenguajes -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white"/>
+
+  <!-- Intereses -->
+  <img src="https://img.shields.io/badge/Visión%20Computacional-5C3EE8?logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ciberseguridad-2F8D46?logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Música-1DB954?logo=spotify&logoColor=white"/>
+
+  <!-- Idiomas -->
+  <img src="https://img.shields.io/badge/Español-Nativo-red"/>
+  <img src="https://img.shields.io/badge/Inglés-B2-blue"/>
+  <img src="https://img.shields.io/badge/Alemán-B2-black"/>
+  <img src="https://img.shields.io/badge/Francés-Básico-lightgrey"/>
+</p>
+
+<hr/>
+
+<!-- ========================================================= -->
+<!-- EXTRA -->
+### 🏆 Un poco más
+- 🏫 Becado en colegio peruano-alemán (Abitur)
+- 🎓 Beca universitaria por rendimiento académico (USIL)
+- 🧠 En proceso: integrar arte, música y código en un solo proyecto
+
+---
+
+⭐ *Gracias por pasar por mi perfil — siempre abierto a aprender, colaborar y compartir conocimiento.*
