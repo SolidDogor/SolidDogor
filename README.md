@@ -73,18 +73,21 @@ Me interesa aprender a combinar **música** con **programación**, y explorar á
 ### 🔗 Redes
 
 <p>
-  <a href="https://www.youtube.com/@TU_CANAL">
+  <a href="https://www.youtube.com/@alejandromatiasolivos5042">
     <img src="https://img.shields.io/badge/YouTube-TU_CANAL-FF0000?logo=youtube&logoColor=white" />
   </a>
-  <a href="https://instagram.com/TU_INSTAGRAM">
+  <a href="https://www.instagram.com/alejandr0lirod">
     <img src="https://img.shields.io/badge/Instagram-@TU_INSTAGRAM-E4405F?logo=instagram" />
   </a>
-  <a href="mailto:TUCORREO@ejemplo.com">
+  <a href="mailto:olivosralejandromatias@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contáctame-informational?logo=gmail" />
   </a>
   <a href="https://TU_PORTFOLIO.com">
     <img src="https://img.shields.io/badge/Portfolio-En_construcción-lightgrey?logo=vercel" />
   </a>
+  <a href="https://open.spotify.com/user/mgfnb5an6iegcwihmtpgm8yxh">
+  <img src="https://img.shields.io/badge/Spotify-Sígueme-1DB954?logo=spotify&logoColor=white" />
+</a>
 </p>
 
 <hr/>
