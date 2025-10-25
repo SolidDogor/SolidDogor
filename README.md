@@ -29,7 +29,7 @@ Me interesa aprender a combinar **música** con **programación**, y explorar á
 
 <img src="https://github.com/SolidDogor/SolidDogor/blob/main/ezgif.com-animated-gif-maker.gif" width="360" alt="cat-coding"/>
 <br/>
-<sub>GIF temporal — pronto: mis gatos codeando 🐾</sub>
+<sub>Mi gato Ron codeando🐾</sub>
 
 </td>
 </tr>
