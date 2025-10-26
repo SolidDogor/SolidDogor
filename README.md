@@ -27,7 +27,7 @@ Me interesa aprender a combinar **música** con **programación**, y explorar á
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://github.com/SolidDogor/SolidDogor/blob/main/ezgif.com-animated-gif-maker.gif" width="360" alt="cat-coding"/>
+<img src="https://github.com/SolidDogor/SolidDogor/blob/main/RonProgramador.gif" width="360" alt="cat-coding"/>
 <br/>
 <sub>Mi gato Ron codeando🐾</sub>
 
