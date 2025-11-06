@@ -82,7 +82,7 @@ Me interesa aprender a combinar **música** con **programación**, y explorar á
   <a href="mailto:olivosralejandromatias@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contáctame-informational?logo=gmail" />
   </a>
-  <a href="https://TU_PORTFOLIO.com">
+  <a href="https://solid-dogor-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-En_construcción-lightgrey?logo=vercel" />
   </a>
   <a href="https://open.spotify.com/user/mgfnb5an6iegcwihmtpgm8yxh">
