@@ -60,12 +60,14 @@ Me interesa aprender a combinar **música** con **programación**, y explorar á
 ### 🚀 Repositorios destacados
 
 <ul>
-  <li>🎮 <a href="https://github.com/SolidDogor/REPO_1">REPO_1</a> — Descripción corta del proyecto</li>
-  <li>💡 <a href="https://github.com/SolidDogor/REPO_2">REPO_2</a> — Descripción corta del proyecto</li>
-  <li>🧠 <a href="https://github.com/SolidDogor/REPO_3">REPO_3</a> — Descripción corta del proyecto</li>
+  <li>🧠🎮 <a href="https://github.com/SolidDogor/bplustree">Motor de indexación B+ Tree</a> — Estructura de datos en C++ capaz de manejar más de 33 millones de registros sin usar una base de datos</li>
+  <!--
+  <li>🎮 <a href="https://github.com/SolidDogor/REPO_2">REPO_2</a> — Descripción corta del proyecto</li>
+  <li>💡 <a href="https://github.com/SolidDogor/REPO_3">REPO_3</a> — Descripción corta del proyecto</li>
   <li>🎵 <a href="https://github.com/SolidDogor/REPO_4">REPO_4</a> — Descripción corta del proyecto</li>
+  -->
 </ul>
-
+  
 <hr/>
 
 <!-- ========================================================= -->
@@ -83,7 +85,7 @@ Me interesa aprender a combinar **música** con **programación**, y explorar á
     <img src="https://img.shields.io/badge/Email-Contáctame-informational?logo=gmail" />
   </a>
   <a href="https://solid-dogor-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-En_construcción-lightgrey?logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-lightgrey?logo=vercel" />
   </a>
   <a href="https://open.spotify.com/user/mgfnb5an6iegcwihmtpgm8yxh">
   <img src="https://img.shields.io/badge/Spotify-Sígueme-1DB954?logo=spotify&logoColor=white" />
@@ -111,7 +113,7 @@ Me interesa aprender a combinar **música** con **programación**, y explorar á
   <!-- Idiomas -->
   <img src="https://img.shields.io/badge/Español-Nativo-red"/>
   <img src="https://img.shields.io/badge/Inglés-B2-blue"/>
-  <img src="https://img.shields.io/badge/Alemán-B2-black"/>
+  <img src="https://img.shields.io/badge/Alemán-C1-black"/>
   <img src="https://img.shields.io/badge/Francés-Básico-lightgrey"/>
 </p>
 
