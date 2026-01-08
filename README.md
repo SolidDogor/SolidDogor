@@ -60,7 +60,7 @@ Me interesa aprender a combinar **música** con **programación**, y explorar á
 ### 🚀 Repositorios destacados
 
 <ul>
-  <li>🧠🎮 <a href="https://github.com/SolidDogor/bplustree">Motor de indexación B+ Tree</a> — Estructura de datos en C++ capaz de manejar más de 33 millones de registros sin usar una base de datos</li>
+  <li>🧠 <a href="https://github.com/SolidDogor/bplustree">Motor de indexación B+ Tree</a> — Estructura de datos en C++ capaz de manejar más de 33 millones de registros sin usar una base de datos</li>
   <!--
   <li>🎮 <a href="https://github.com/SolidDogor/REPO_2">REPO_2</a> — Descripción corta del proyecto</li>
   <li>💡 <a href="https://github.com/SolidDogor/REPO_3">REPO_3</a> — Descripción corta del proyecto</li>
