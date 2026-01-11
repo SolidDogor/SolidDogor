@@ -91,8 +91,8 @@ Me interesa aprender a combinar **música** con **programación**, y explorar á
   <a href="mailto:olivosralejandromatias@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contáctame-informational?logo=gmail" />
   </a>
-  <a href="https://solid-dogor-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-lightgrey?logo=vercel" />
+  <a href="https://alejandro-olivos-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Conoceme-3a0562?logo=vercel" />
   </a>
   <a href="https://open.spotify.com/user/mgfnb5an6iegcwihmtpgm8yxh">
   <img src="https://img.shields.io/badge/Spotify-Sígueme-1DB954?logo=spotify&logoColor=white" />
@@ -121,7 +121,7 @@ Me interesa aprender a combinar **música** con **programación**, y explorar á
   <img src="https://img.shields.io/badge/Español-Nativo-red"/>
   <img src="https://img.shields.io/badge/Inglés-B2-blue"/>
   <img src="https://img.shields.io/badge/Alemán-C1-black"/>
-  <img src="https://img.shields.io/badge/Francés-Básico-lightgrey"/>
+  <img src="https://img.shields.io/badge/Francés-A2-lightgrey"/>
 </p>
 
 <hr/>
