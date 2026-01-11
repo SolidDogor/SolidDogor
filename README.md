@@ -42,18 +42,25 @@ Me interesa aprender a combinar **música** con **programación**, y explorar á
 ### 📊 Mis stats de GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolidDogor&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="top-langs"/>
+  <img height="165"
+       src="https://github-readme-stats-6gczqgzpe-alejandros-projects-435a05c4.vercel.app/api/top-langs/?username=SolidDogor&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400"
+       alt="top-langs"/>
 </p>
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SolidDogor&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="stats"/>
+  <img height="165"
+       src="https://github-readme-stats-6gczqgzpe-alejandros-projects-435a05c4.vercel.app/api?username=SolidDogor&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&cache_seconds=86400"
+       alt="stats"/>
 </p>
 
 <p>
-  <img height="165" src="https://streak-stats.demolab.com?user=SolidDogor&hide_border=true&theme=tokyonight" alt="streak"/>
+  <img height="165"
+       src="https://streak-stats.demolab.com?user=SolidDogor&hide_border=true&theme=tokyonight"
+       alt="streak"/>
 </p>
 
 <hr/>
+
 
 <!-- ========================================================= -->
 <!-- REPOS DESTACADOS -->
