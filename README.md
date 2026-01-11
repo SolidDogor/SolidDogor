@@ -43,13 +43,13 @@ Me interesa aprender a combinar **música** con **programación**, y explorar á
 
 <p>
   <img height="165"
-       src="https://github-readme-stats-6gczqgzpe-alejandros-projects-435a05c4.vercel.app/api/top-langs/?username=SolidDogor&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400"
+       src="https://github-readme-stats-one-phi-47.vercel.app/api/top-langs/?username=SolidDogor&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
        alt="top-langs"/>
 </p>
 
 <p>
   <img height="165"
-       src="https://github-readme-stats-6gczqgzpe-alejandros-projects-435a05c4.vercel.app/api?username=SolidDogor&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&cache_seconds=86400"
+       src="https://github-readme-stats-one-phi-47.vercel.app/api?username=SolidDogor&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
        alt="stats"/>
 </p>
 
