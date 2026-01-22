@@ -20,7 +20,7 @@ Soy estudiante de **Ingeniería de Software en la USIL**, con pasión por **C++*
 Me interesa aprender a combinar **música** con **programación**, y explorar áreas como **visión computacional** y **ciberseguridad** (aunque recién empiezo jeje).
 
 - 💻 Lenguajes favoritos: **C++**, **Java**
-- 🌱 Aprendiendo: **React**, desarrollo web full stack
+- 🌱 Aprendiendo: **React**, desarrollo web full stack, ODOO
 - 🎵 Intentando integrar música y código
 - 🐈 Tengo dos gatos que suelen “ayudarme” a programar 😸
 
